@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyuyusan&layout=compact
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyuyusan&layout=compact&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 </p>
