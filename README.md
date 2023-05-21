@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyuyusan&layout=compact&theme=merko
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyuyusan&layout=compact&theme=tokyonight
 )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyuyusan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
