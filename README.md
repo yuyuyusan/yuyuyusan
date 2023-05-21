@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyuyusan&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="[https://github-readme-stats.vercel.app/api/top-langs/?username={名前}&layout=compact&show_icons=true&theme=onedark](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyuyusan&layout=compact&theme=tokyonight)" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyuyusan&layout=compact&theme=tokyonight)" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yuyuyusan&theme=tokyonight&show_icons=true" />
 </p>
 
