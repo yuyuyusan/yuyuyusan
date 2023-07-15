@@ -17,7 +17,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="32" height="32" /> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" ><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="32" height="32" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" ><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" height="32" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" ><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32" /></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" ><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="32" height="32" /></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="32" height="32" /></a>
